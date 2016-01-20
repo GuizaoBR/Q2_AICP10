@@ -1,0 +1,41 @@
+# hardware info
+
+ro.device.chipset=Mediatek mt6753 
+ro.device.cpu=1.3GHz octa-core Cortex-A53
+ro.device.gpu=Mediatek Mali T720
+ro.device.rear_cam=13 MP
+ro.device.front_cam=8 MP
+ro.device.screen_res=720x1280
+
+# Display
+ro.opengles.version=196608
+ro.sf.lcd_density=320
+debug.sf.fb_always_on=1
+debug.sf.hw=1
+debug.egl.hw=1
+debug.composition.type=c2d
+persist.hwc.mdpcomp.enable=true
+debug.mdpcomp.logs=0
+
+# GPS
+ro.mtk_agps_app=1
+ro.mtk_gps_support=1
+
+# TELEPHONY
+ro.telephony.sim.count=2
+ro.mediatek.chip_ver=S01
+persist.radio.default.sim=0
+persist.radio.multisim.config=dsds
+persist.md.perm.checked=to_upgrade
+ro.gemini.smart_sim_switch=false
+
+# SDCARD
+ro.mtk_shared_sdcard=1
+ro.mtk_2sdcard_swap=1
+
+
+
+
+
+
+
