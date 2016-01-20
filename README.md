@@ -1,5 +1,5 @@
 # Q2_AICP
-I triyng port aicp 11(android m) For my device
+I triyng port aicp 10(android 5.1.1) For my device
 SPECS
 Chipset: mt6753 1.3ghz
 Gpu: Mali-T720
